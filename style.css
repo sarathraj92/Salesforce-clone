@@ -1,0 +1,17 @@
+*{
+    font-family: roboto,Arial, Helvetica, sans-serif;
+}
+
+.hero{
+    background-image: url(images/main-page-1.webp);
+}
+
+.text-1{
+    font-size: 48px;
+
+}
+
+.text-2{
+    font-size: 20px;
+}
+
